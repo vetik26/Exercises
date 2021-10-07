@@ -1,0 +1,6 @@
+{
+  "name": "vitaly/list-of-people",
+  "require": {
+    "league/csv": "^9.7"
+  }
+}

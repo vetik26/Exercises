@@ -1,0 +1,6 @@
+{
+  "name": "vitaly/hola",
+  "require": {
+    "spatie/calendar-links": "^1.6"
+  }
+}

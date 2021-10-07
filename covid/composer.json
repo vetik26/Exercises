@@ -1,0 +1,11 @@
+{
+  "name": "vitaly/covid",
+  "require": {
+    "league/csv": "^9.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
